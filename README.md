@@ -1,2 +1,1 @@
-# proyecto-final-2.0
-restauración del primer proyecto
+# Proyecto-final-2.0
